@@ -1,16 +1,16 @@
 {
   "name" : "kbide-plugin-micro-sd-card",
-  "title": "micro-sd-card",
+  "title": "Micro SD Card Module",
   "keywords": "micro-sd-card, esp32, esp8266, arduino",
   "description": "Plugin micro-sd-card for KB-IDE",
   "git": "https://github.com/cmmc-kbide/kbide-plugin-micro-sd-card/",
-  "author": "cmmakerclub",
+  "author": "Prawared",
   "email": "",
   "url": "https://github.com/cmmc-kbide/kbide-plugin-micro-sd-card/",
   "version": "1.0.0",
   "board" : "",
   "platform": ["arduino-esp32"],
   "license": "",
-  "image" : "/static/display.png",
+  "image" : "/static/display.jpeg",
   "homepage": "http://www.kbide.org"
 }
